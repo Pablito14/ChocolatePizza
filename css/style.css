@@ -1,0 +1,22 @@
+body {
+    margin-top: 60px;
+}
+
+.container {
+    max-width: 960px;
+    width: 96%;
+    margin: auto;
+}
+
+.si {
+    float: right;
+    clear: both;
+    line-height: 70px;
+}
+
+.lt img{
+float:left;
+line-height: 20pxx
+}
+
+ 
