@@ -3,4 +3,31 @@ si{
     float:right;
 
 
+
+
+
+
+.lt img {
+    float: left;
+}
+
+.fc{
+    display: inline-block;   
+}
+
+.sc{
+    display: inline-block;
+    margin-left: 13em;
+}
+
+.iop{
+    position: absolute;
+    margin-top: -14.6em;
+    margin-left: 4em;
+    opacity: 0.7;
+}
+.mp{
+position: relative;
+margin: auto;
+
 }
