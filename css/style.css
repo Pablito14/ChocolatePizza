@@ -1,22 +1,26 @@
-body {
-    margin-top: 60px;
+
+
+
+.lt img {
+    float: left;
 }
 
-.container {
-    max-width: 960px;
-    width: 96%;
-    margin: auto;
+.fc{
+    display: inline-block;   
 }
 
-.si {
-    float: right;
-    clear: both;
-    line-height: 70px;
+.sc{
+    display: inline-block;
+    margin-left: 13em;
 }
 
-.lt img{
-float:left;
-line-height: 20pxx
+.iop{
+    position: absolute;
+    margin-top: -14.6em;
+    margin-left: 4em;
+    opacity: 0.7;
 }
-
- 
+.mp{
+position: relative;
+margin: auto;
+}
